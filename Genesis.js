@@ -226,5 +226,23 @@ return "And unto Adam he said, Because thou hast hearkened unto the voice of thy
 if(verse===18){
 return "Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;"
 }
+if(verse===19){
+return "In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return."
+}
+if(verse===20){
+return "And Adam called his wife's name Eve; because she was the mother of all living."
+}
+if(verse===21){
+return "Unto Adam also and to his wife did the Lord God make coats of skins, and clothed them."
+}
+if(verse===22){
+return "And the Lord God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:"
+}
+if(verse===23){
+return "Therefore the Lord God sent him forth from the garden of Eden, to till the ground from whence he was taken."
+}
+if(verse===24){
+return "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life."
+}
 }
 }
