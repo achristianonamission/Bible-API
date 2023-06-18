@@ -1,4 +1,4 @@
-function Genesis2(verse){
+function Genesis3(verse){
 if(verse===1){
 return "Thus the heavens and the earth were finished, and all the host of them."
 }
