@@ -16,5 +16,11 @@ document.head.appendChild(script)
   var script=document.createElement("script")
 script.src="https://cdn.jsdelivr.net/gh/achristianonamission/Bible-API@Genesis/G5.js"
 document.head.appendChild(script)
+  var script=document.createElement("script")
+script.src="https://cdn.jsdelivr.net/gh/achristianonamission/Bible-API@Genesis/G6.js"
+document.head.appendChild(script)
+  var script=document.createElement("script")
+script.src="https://cdn.jsdelivr.net/gh/achristianonamission/Bible-API@Genesis/G7.js"
+document.head.appendChild(script)
 }
 }
